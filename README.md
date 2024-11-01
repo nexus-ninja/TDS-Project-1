@@ -1,4 +1,4 @@
-# Github API Scrapping: Part of TDS Course Project
+# Github API Scrapping: Part of TDS Course
 
 - I utilized the GitHub API to scrape data on Melbourne-based users with over 100 followers by automating requests, handling pagination, and processing JSON responses to collect user profiles and their repositories.
 - Surprisingly, hireable developers in Melbourne do not necessarily follow more people nor share their email addresses more frequently than non-hireable developers.
