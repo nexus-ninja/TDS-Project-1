@@ -87,17 +87,3 @@ This project provides insights into the GitHub user community in Melbourne. The 
 ---
 
 **Note**: The specific results and conclusions should be updated based on the actual data you obtained from your analysis. Replace placeholders like `[List of surnames based on your data]` and `[Your calculated difference, e.g., 0.123]` with your actual findings.
-
-### **Tips for a High-Ranking README.md**
-
-- **Clarity**: Ensure that your explanations are clear and concise.
-- **Insightful Analysis**: Highlight unique and non-obvious findings from your data.
-- **Actionable Recommendations**: Provide practical advice that developers can implement.
-- **Professional Presentation**: Format the README.md neatly with proper headings and bullet points.
-- **Peer Review Focus**: Remember that peers will focus on the initial three bullet points, so make them impactful.
-
-### **Final Touches**
-
-- **Proofreading**: Check for grammatical errors and typos.
-- **Formatting**: Use Markdown syntax properly for better readability.
-- **Additional Content**: While peers focus on the first three bullets, adding more content shows thoroughness and may positively influence their perception.
