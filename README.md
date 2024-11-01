@@ -1,3 +1,5 @@
+# Github API Scrapping: Part of TDS Course Project
+
 - I utilized the GitHub API to scrape data on Melbourne-based users with over 100 followers by automating requests, handling pagination, and processing JSON responses to collect user profiles and their repositories.
 - Surprisingly, hireable developers in Melbourne do not necessarily follow more people nor share their email addresses more frequently than non-hireable developers.
 - Developers seeking opportunities should optimize their GitHub profiles by highlighting key information, as being hireable doesn't correlate with typical engagement metrics like following count or email visibility.
