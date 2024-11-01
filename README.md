@@ -28,23 +28,19 @@ This project involves scraping data from the GitHub API to collect information a
 
 ## Data Analysis
 
-Several analyses were performed on the collected data to extract meaningful insights:
+Several analyses were performed on the collected data to extract meaningful insights, example:
 
 1. **Surname Frequency**:
    - Determined the most common surnames among the users by assuming the last word in their name is their surname.
-   - Found that the most common surname(s) is/are: **[List of surnames based on your data]**.
+   - Found that the most common surname(s) is/are: **Wang**.
 
 2. **Email Sharing and Hireability**:
    - Analyzed whether hireable users share their email addresses more often.
    - Calculated the fraction of hireable users with an email minus the fraction of non-hireable users with an email.
-   - Result: **[Your calculated difference, e.g., 0.123]**.
-   - Conclusion: Hireable status does not significantly affect email sharing.
 
 3. **Following Count and Hireability**:
    - Investigated if hireable users follow more people on average.
    - Computed the average following for hireable users minus the average for non-hireable users.
-   - Result: **[Your calculated difference, e.g., -5.678]**.
-   - Conclusion: Hireable users do not necessarily follow more people.
 
 ## Actionable Insights
 
