@@ -67,23 +67,15 @@ Several analyses were performed on the collected data to extract meaningful insi
    - Use the analysis scripts to perform calculations and generate insights.
 
 4. **Scripts Included**:
-   - `fetch_users.py`: Script to scrape user data.
-   - `fetch_repositories.py`: Script to scrape repository data.
-   - `analyze_data.py`: Script containing analysis code for the questions addressed.
+   - `API Scrapping.py`: Script to scrape user data, repository data and contains analysis code for the questions addressed.
 
 ## Files in the Repository
 
 - `users.csv`: Contains user information.
 - `repositories.csv`: Contains repository information.
 - `README.md`: Documentation of the project.
-- `fetch_users.py`: Script to fetch user data.
-- `fetch_repositories.py`: Script to fetch repository data.
-- `analyze_data.py`: Script for data analysis.
-
+- `API Scrapping.py`: Script to fetch user data and repository data.
+  
 ## Conclusion
 
 This project provides insights into the GitHub user community in Melbourne. The analysis challenges some common assumptions about developer behavior related to hireability. By focusing on meaningful engagement and profile completeness, developers can enhance their visibility to potential employers.
-
----
-
-**Note**: The specific results and conclusions should be updated based on the actual data you obtained from your analysis. Replace placeholders like `[List of surnames based on your data]` and `[Your calculated difference, e.g., 0.123]` with your actual findings.
