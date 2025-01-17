@@ -1,4 +1,5 @@
-# Github API Scrapping: Part of TDS Course
+# Github API Scrapping: Part of TDS Course at IIT-Madras
+
 
 - I utilized the GitHub API to scrape data on Melbourne-based users with over 100 followers by automating requests, handling pagination, and processing JSON responses to collect user profiles and their repositories.
 - Surprisingly, hireable developers in Melbourne do not necessarily follow more people nor share their email addresses more frequently than non-hireable developers.
@@ -77,3 +78,5 @@ Several analyses were performed on the collected data to extract meaningful insi
 ## Conclusion
 
 This project provides insights into the GitHub user community in Melbourne. The analysis challenges some common assumptions about developer behavior related to hireability. By focusing on meaningful engagement and profile completeness, developers can enhance their visibility to potential employers.
+
+Note: @sage-devv is my GitHub account linked to my official college email ID.
